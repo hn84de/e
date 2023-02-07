@@ -12,3 +12,6 @@ function estimate(ac){
     }
     return er;
 }
+for(let i = 0; i< 1; i++){
+    console.log(estimate(i));
+}
